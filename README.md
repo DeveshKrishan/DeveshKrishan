@@ -1,4 +1,9 @@
-### Hi there 👋
+# Hello 👋 I am Devesh!
+I am a software engineer that solves problems using cutting-edge technology and tools.
+
+- 🌱 Currently learning React and Machine Learning
+- 🤝 Connect with me on [LinkedIn](https://www.linkedin.com/in/deveshkrishan/)!.
+- 📫 Email me at deveshkrishan2003@gmail.com if you have any questions 😁
 
 <!--
 **DeveshKrishan/DeveshKrishan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
