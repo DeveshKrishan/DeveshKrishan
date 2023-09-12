@@ -1,7 +1,7 @@
 # Hello 👋 I am Devesh!
 I am a software engineer that solves problems using cutting-edge technology and tools.
 
-- 🌱 Currently learning React and Machine Learning
+- 🌱 Currently learning React, Java, and Machine Learning!
 - 🤝 Connect with me on [LinkedIn](https://www.linkedin.com/in/deveshkrishan/)!.
 - 📫 Email me at deveshkrishan2003@gmail.com if you have any questions 😁
 
