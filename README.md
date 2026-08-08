@@ -1,7 +1,6 @@
 # Hello 👋 I am Devesh!
 I am a software engineer that solves problems using cutting-edge technology and tools.
 
-- 🌱 Currently learning Golang!
 - 🤝 Connect with me on [LinkedIn](https://www.linkedin.com/in/deveshkrishan/)!.
 - 📫 Email me at deveshkrishan2003@gmail.com if you have any questions 😁
 
